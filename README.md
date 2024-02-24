@@ -1,4 +1,4 @@
-# maintain_multiple_python_versions
+# How to maintain different python versions
 
 - Assuming your current ubuntu has python 3.10 installed and you want to install python 3.9
 ```bash
