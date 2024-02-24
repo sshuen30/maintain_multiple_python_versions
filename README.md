@@ -2,6 +2,9 @@
 
 - Assuming your current ubuntu has python 3.10 installed and you want to install python 3.9
 ```bash
+# Install the 'software-properties-common to add external repositories to your package manager's list of available sources.
+sudo apt-get install software-properties-common
+
 # Add the deadsnakes repository
 sudo add-apt-repository ppa:deadsnakes/ppa
 
